@@ -6,7 +6,7 @@ setup(
     author="Hannes Karppila",
     license="MIT",
     url="https://github.com/Dentosal/sigepy",
-    packages=["pygressbar"],
+    packages=["sigepy"],
     package_data={"": ["LICENSE"]},
     install_requires=[],
     classifiers=[
